@@ -34,7 +34,9 @@ h3 {
 }
 
 #affinityimage {
-  margin: auto;
+  display: block;
+  text-align: center;
+  width: 300px;
   height: 200px;
 }
 
