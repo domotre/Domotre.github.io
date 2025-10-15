@@ -21,7 +21,8 @@ h1 {
 
 .projects {
   background-color: firebrick;
-  padding: 10px;
+  padding: 30px 40px;
+  
 }
 
 .contact {
@@ -29,11 +30,4 @@ h1 {
   padding: 10px;
 }
 
-.projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
-.project {
-width: 30%;
-margin: 10px;
-padding: 20px 10px;
-background: green; 
-border-radius: 25%;
-}
+/* I already have a .projects, so I did not add the information from week 7 *\
