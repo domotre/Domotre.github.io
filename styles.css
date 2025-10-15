@@ -31,9 +31,7 @@ h1 {
 }
 
 #affinityimage {
-  width: 500px;
-  height: auto;
-  margin: auto;
+  padding: 10px 20px;
 }
 
 /* I already have a .projects, so I did not add the information from week 7 *\
