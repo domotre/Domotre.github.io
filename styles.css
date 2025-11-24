@@ -42,7 +42,10 @@ h3 {
 }
 
 #pixelprison-img {
-  width: 180px;
+  display: block;
+  text-align: center;
+  width: 500px;
   height: auto;
+  margin: auto;
 }
 /* I already have a .projects, so I did not add the information from week 7 *\
